@@ -1,2 +1,1 @@
-# Car-Brand
-Car Brand Image Classifier
+#Car Brand Image Classifier
